@@ -1,5 +1,7 @@
 # When Agents Meet Living Graphs: Building an Agentic Movie Intelligence
 
+*What happens when a one-line story is handed to an entire AI pre-production crew?*
+
 ## Session Overview
 In this session, we will build an agentic creative studio where specialised agents for movie intelligence, creative direction, scriptwriting, screenplay development, visual storyboarding, and memory work together to transform a raw idea into a cinematic storyboard and a production plan.
 At its core is a living, bi-temporal knowledge graph that captures every idea, approval, rejection, revision, and creative preference of the director. Instead of starting from zero in every session, the agents learn how the creator thinks and become more context-aware with every project.
