@@ -33,5 +33,4 @@ They will see how to build a Living Agentic Knowledge System in which:
 
 It is a practical demonstration of how Living Knowledge Graphs, Agentic Graph Memory, specialised agents, and humans can come together to form the Agentic Operating Layer.
 
-**Join me to see how a wild one-line idea transforms to a cinematic storyboard: six agents, one living graph, and one human firmly in the director’s chair.
-**
+**Join me to see how a wild one-line idea transforms to a cinematic storyboard: six agents, one living graph, and one human firmly in the director’s chair.**
