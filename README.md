@@ -1,5 +1,7 @@
 # When Agents Meet Living Graphs: Building an Agentic Movie Intelligence
 
+![My Vector Graphic](visualisation.svg)
+
 *What happens when a one-line story is handed to an entire AI pre-production crew?*
 
 ## Session Overview
