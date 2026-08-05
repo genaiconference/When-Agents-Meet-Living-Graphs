@@ -1,8 +1,10 @@
 # When Agents Meet Living Graphs: Building an Agentic Movie Intelligence
 
-![Logo](images/Director Arun Saga Living Memory.png)
 
-![Logo](images/Project Aham 7 day overall picture.png)
+<img src="images/Director Arun Saga Living Memory.png" alt="Logo" />
+
+<img src="images/Project Aham 7 day overall picture.png" alt="Logo" />
+
 
 *What happens when a one-line story is handed to an entire AI pre-production crew?*
 
